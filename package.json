@@ -1,0 +1,21 @@
+{
+  "name": "aws-ec2-nodejs-server-deployment-demo",
+  "version": "1.0.0",
+  "description": "A simple node.js server deployment demo on AWS EC2.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "aws",
+    "ec2"
+  ],
+  "author": "Damagedcase",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
